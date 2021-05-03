@@ -1,0 +1,13 @@
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CobWebs.Test\CobWebs.Test\bin\Debug\netcoreapp3.1\CobWebs.Test.exe
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CobWebs.Test\CobWebs.Test\bin\Debug\netcoreapp3.1\CobWebs.Test.deps.json
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CobWebs.Test\CobWebs.Test\bin\Debug\netcoreapp3.1\CobWebs.Test.runtimeconfig.json
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CobWebs.Test\CobWebs.Test\bin\Debug\netcoreapp3.1\CobWebs.Test.runtimeconfig.dev.json
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CobWebs.Test\CobWebs.Test\bin\Debug\netcoreapp3.1\CobWebs.Test.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CobWebs.Test\CobWebs.Test\bin\Debug\netcoreapp3.1\CobWebs.Test.pdb
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CobWebs.Test\CobWebs.Test\obj\Debug\netcoreapp3.1\CobWebs.Test.csprojAssemblyReference.cache
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CobWebs.Test\CobWebs.Test\obj\Debug\netcoreapp3.1\CobWebs.Test.AssemblyInfoInputs.cache
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CobWebs.Test\CobWebs.Test\obj\Debug\netcoreapp3.1\CobWebs.Test.AssemblyInfo.cs
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CobWebs.Test\CobWebs.Test\obj\Debug\netcoreapp3.1\CobWebs.Test.csproj.CoreCompileInputs.cache
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CobWebs.Test\CobWebs.Test\obj\Debug\netcoreapp3.1\CobWebs.Test.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CobWebs.Test\CobWebs.Test\obj\Debug\netcoreapp3.1\CobWebs.Test.pdb
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\CobWebs.Test\CobWebs.Test\obj\Debug\netcoreapp3.1\CobWebs.Test.genruntimeconfig.cache

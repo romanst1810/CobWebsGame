@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CobWebs.Test.Domain.Strategy.CheaterPlayerStrategy" Collapsed="true">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Strategy\CheaterPlayerStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CobWebs.Test.Domain.Strategy.PlayerStrategyBase" Collapsed="true">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Strategy\PlayerStrategyBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CobWebs.Test.Domain.Strategy.ThoroughPlayerStrategy" Collapsed="true">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Strategy\ThoroughPlayerStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CobWebs.Test.Domain.Strategy.ThoroughCheaterPlayerStrategy" Collapsed="true">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Strategy\ThoroughCheaterPlayerStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CobWebs.Test.Domain.Strategy.RandomPlayerStrategy" Collapsed="true">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Strategy\RandomPlayerStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CobWebs.Test.Domain.Strategy.MemoryPlayerStrategy" Collapsed="true">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Strategy\MemoryPlayerStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
